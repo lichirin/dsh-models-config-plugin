@@ -1,4 +1,6 @@
-# DeepSeek Harness 模型配置插件
+# 模型高级配置dsh插件
+
+中文名：模型高级配置dsh插件。仓库名 dsh-models-config-plugin。
 
 [English](README.en.md) | 中文
 
